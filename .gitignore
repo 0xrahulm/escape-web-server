@@ -11,3 +11,9 @@
 /log/*
 !/log/.keep
 /tmp
+config.ru
+/config/application.rb
+/config/database.yml
+/config/secrets.yml
+
+/.idea
